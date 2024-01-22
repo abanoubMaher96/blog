@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongose": "^0.0.2-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "name": "be_blog",
+  "version": "1.0.0",
+  "description": "blog project to create delete and edit blogs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abanoub Rezkalla",
+  "license": "ISC"
+}
