@@ -1,4 +1,3 @@
-// import articleRouter from "./routes/articles";
 const articleRouter = require("./routes/articles");
 const express = require("express");
 
